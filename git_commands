@@ -1,0 +1,13 @@
+
+1. Initialize the Directory as git repository
+    git init
+2. Add files to repository
+    git add . 
+3. Get Status
+    git status
+4. Commit files from local repository
+    git commit -m "01-commit"
+5. Specify remote repository
+    git remote add origin https://github.com/silasnatter/cu-dash.git
+6. Push code to github
+    git push -u origin master
